@@ -63,4 +63,5 @@
 ![차선인식 화면](https://github.com/yabeen0126/turtlebot_autorace/blob/main/img/autorace.gif)
 
 ### Aruco 마커 인식 및 조작
-![마커인식 화면](https://github.com/yabeen0126/turtlebot_autorace/blob/main/img/aruco.gif)
+<img src="https://raw.githubusercontent.com/yabeen0126/turtlebot_autorace/main/img/aruco.gif" width="720"/>
+
