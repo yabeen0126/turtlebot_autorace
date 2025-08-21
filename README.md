@@ -1,5 +1,5 @@
 # 🤖 차선인식 기반 자율주행 로봇 (ROKEYBOT)
-![작동 영상](https://github.com/I5-BatteryCheck/.github/blob/main/profile/i5-readme-video.gif)
+![작동 영상]((https://github.com/yabeen0126/turtlebot_autorace/blob/main/img/autorace.gif))
 ---
 
 ## 📄프로젝트 개요
@@ -9,8 +9,7 @@
 
 ## 🔍 Architecture
 
-![ROS Node Architecture](https://user-images.githubusercontent.com/12345678/your-image-link-here.png)
-*<-- ROS Node Architecture 다이어그램 이미지 삽입 영역*
+![ROS Node Architecture](https://github.com/yabeen0126/turtlebot_autorace/blob/main/img/autorace_arc.jpg)
 
 
 ---
@@ -45,17 +44,6 @@
 
 ---
 
-## 📐 Diagrams
-
-### ER Diagram
-![ER Diagram](https://user-images.githubusercontent.com/12345678/your-image-link-here.png)
-*<-- ERD 이미지 삽입 영역*
-
-### UML Class Diagram
-![UML Diagram](https://user-images.githubusercontent.com/12345678/your-image-link-here.png)
-*<-- UML 이미지 삽입 영역*
-
----
 
 ## ⭐ 주요 기능
 
@@ -72,9 +60,9 @@
 
 ## 🎬 프로젝트 결과물
 ### 차선 인식 및 주행 화면
-![차선인식 화면](https://user-images.githubusercontent.com/12345678/your-image-link-here.png)
+![차선인식 화면]((https://github.com/yabeen0126/turtlebot_autorace/blob/main/img/autorace.gif))
 *<-- 차선 인식 및 주행 테스트 결과 이미지 삽입 영역*
 
 ### Aruco 마커 인식 및 조작
-![마커인식 화면](https://user-images.githubusercontent.com/12345678/your-image-link-here.png)
+![마커인식 화면]((https://github.com/yabeen0126/turtlebot_autorace/blob/main/img/aruco.gif))
 *<-- Aruco 마커 인식 및 Manipulation 결과 이미지 삽입 영역*
